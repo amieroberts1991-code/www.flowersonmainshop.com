@@ -1,0 +1,725 @@
+@font-face {
+    font-family: 'adventure1';
+    src: url('../fonts/adventure1.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'adventure2';
+    src: url('../fonts/adventure2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'anastasia';
+    src: url('../fonts/anastasia.otf') format('opentype');
+ font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'brotherhub';
+    src: url('../fonts/brotherhub.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'brotherhubitalic';
+    src: url('../fonts/brotherhubitalic.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'butterfly';
+    src: url('../fonts/butterfly.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'floragarden';
+    src: url('../fonts/floragarden.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'heartornaments1';
+    src: url('../fonts/heartornaments1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'heartornaments2';
+    src: url('../fonts/heartornaments2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'humility';
+    src: url('../fonts/humility.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'inspiration';
+    src: url('../fonts/inspiration.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'knucklehead';
+    src: url('../fonts/knucklehead.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lightning1';
+    src: url('../fonts/lightning1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lightning2';
+    src: url('../fonts/lightning2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'loveheart1';
+    src: url('../fonts/loveheart1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'loveheart2';
+    src: url('../fonts/loveheart2.ttf') format('truetype');
+ font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'magnolia1';
+    src: url('../fonts/magnolia1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'magnolia2';
+    src: url('../fonts/magnolia2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moonlight1';
+    src: url('../fonts/moonlight1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moonlight2';
+    src: url('../fonts/moonlight2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'newpose';
+    src: url('../fonts/newpose.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'adventure1';
+    src: url('../fonts/adventure1.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'adventure2';
+    src: url('../fonts/adventure2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'anastasia';
+    src: url('../fonts/anastasia.otf') format('opentype');
+ font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'brotherhub';
+    src: url('../fonts/brotherhub.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'brotherhubitalic';
+    src: url('../fonts/brotherhubitalic.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'butterfly';
+    src: url('../fonts/butterfly.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'floragarden';
+    src: url('../fonts/floragarden.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'heartornaments1';
+    src: url('../fonts/heartornaments1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'heartornaments2';
+    src: url('../fonts/heartornaments2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'humility';
+    src: url('../fonts/humility.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'inspiration';
+    src: url('../fonts/inspiration.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'knucklehead';
+    src: url('../fonts/knucklehead.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lightning1';
+    src: url('../fonts/lightning1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lightning2';
+    src: url('../fonts/lightning2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'loveheart1';
+    src: url('../fonts/loveheart1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'loveheart2';
+    src: url('../fonts/loveheart2.ttf') format('truetype');
+ font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'magnolia1';
+    src: url('../fonts/magnolia1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'magnolia2';
+    src: url('../fonts/magnolia2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moonlight1';
+    src: url('../fonts/moonlight1.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moonlight2';
+    src: url('../fonts/moonlight2.ttf') format('truetype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'newpose';
+    src: url('../fonts/newpose.otf') format('opentype');
+     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ARKM';
+    src: url('../fonts/ARKM.ttf') format('truetype');
+       font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'caster';
+    src: url('../fonts/caster.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cstars';
+    src: url('../fonts/cstars.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dream';
+    src: url('../fonts/dream.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fhubby';
+    src: url('../fonts/fhubby.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'goodvibes';
+    src: url('../fonts/goodvibes.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'handsome';
+    src: url('../fonts/handsome.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'mushrooms';
+    src: url('../fonts/mushrooms.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'notebook';
+    src: url('../fonts/notebook.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+font-family: 'quimbie';
+src: url('../fonts/quimbie.ttf') format('truetype');
+font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'simple';
+    src: url('../fonts/simple.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'somebodyelse';
+    src: url('../fonts/somebodyelse.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'space';
+    src: url('../fonts/space.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'storyline';
+    src: url('../fonts/storyline.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sunshine';
+    src: url(../fonts/sunshine.otf) format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sweetheart';
+    src: url('../fonts/sweetheart.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'thunderbolt';
+    src: url('../fonts/thunderbolt.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'valkirie';
+    src: url('../fonts/valkirie.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* ================================
+   GLOBAL STYLES
+================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'valkirie', serif;
+    background-color: #f8f5f7;
+    color: #2b0f14;
+    line-height: 1.6;
+}
+
+/* ================================
+   shop__hero SECTION
+================================ */
+/* Two-column hero layout */
+.shop__hero {
+  display: block;
+  align-items: center;
+  max-height: 560px;
+  max-width: 1260px;
+}
+
+
+
+.shop__hero-video {
+  width: 100%;
+  height: 560px;
+  display: flex;
+  object-fit: cover; /* shows full bouquet, no cropping */
+  background: transparent;
+}
+
+
+.hero-card-image {
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 100%;
+   /* adjust to make the right image smaller or bigger */
+  padding: 50px;
+}
+
+.hero-card-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+/* Overlay ON TOP of the right image */
+.shop__hero-overlay {
+  position: absolute;
+  top: 60%;               /* center vertically */
+  left: 50%;              /* center horizontally */
+  transform: translate(-50%, -50%);
+  padding: 1.75rem 2.25rem;
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(14px);
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  text-align: center;
+}
+
+/* Title styling */
+.shop__hero-title {
+  font-size: 3.5rem;
+  color: var(--dusty-rose);
+  text-shadow: 2px 2px 0 var(--midnight-violet);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'valkirie';
+  margin: 0;
+}
+
+/* ================================
+   BOUQUET GRID
+================================ */
+
+.content-wrapper {
+    width: 100%;
+    max-width: 1260px;
+    margin: 20px auto;
+
+}
+
+.bouquet-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 35px;
+    margin-top: 20px !important;
+}
+
+.bouquet-card {
+    background: #ffffff;
+    border: 2px solid #d8c2c8; /* dusty rose */
+    border-radius: 0;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.bouquet-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.bouquet-img {
+    width: 100%;
+    height: 190px;
+    object-fit: contain;
+    border-bottom: 2px solid #d8c2c8;
+    margin-bottom: 8px;
+}
+
+.bouquet-name {
+    font-size: 1.25rem;
+    color: var(--midnight-violet);
+    margin-bottom: 8px;
+    font-family: 'valkirie';
+}
+
+.bouquet-price {
+    font-size: 1.25rem;
+    color: var(--midnight-violet);
+    margin-bottom: 8px;
+    font-family: 'valkirie';
+}
+/*================================
+Spotify Section
+================================*/
+
+.spotify-grid {
+ display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 44px;              /* space between columns */
+  max-width: 1260px;      /* controls how wide the two columns can grow */
+  margin: 0 auto;         /* centers the grid on the page */
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  align-items: start;
+}
+
+
+.spotify-card {
+    font-family: 'valkirie';
+    color: var(--dusty-rose) !important;
+    font-size: 1.25rem;
+    background: var(--midnight-violet);
+    border: 6px solid var(--dusty-rose); /* dusty rose */
+    border-radius: 0;
+    text-shadow: 2px 2px 0 var(--merlot);
+    padding: 5px;
+    margin-top: 8px;
+    text-align: center;
+    box-shadow: 0 4px 12px var(--merlot);
+    font-weight: 800;;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.spotify-title {
+    font-size: 1.25rem;
+    color: var(--dusty-rose); /* dusty rose */
+    margin-bottom: 8px;
+    font-family: 'valkirie';
+}
+
+.spotify-text {
+    color: var(--dusty-rose);
+    margin-bottom: 8px;
+    font-family: 'valkirie';    
+    font-size: 16px;
+    letter-spacing: 0.06em;
+
+    }
+    .florist-title {
+        font-size: 1.75rem;
+        color: var(--dusty-rose);
+        margin-bottom: 8px;
+        font-family: 'valkirie';
+    }
+    .florist-text {
+        color: white;
+        margin-bottom: 8px;
+        font-family: 'valkirie';
+        font-size: 1rem !important;
+        letter-spacing: 0.06em;
+    }
+
+/* ================================
+   BUY BUTTON
+================================ */
+
+.buy-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: var(--merlot) !important;
+    color: var(--dusty-rose);
+    text-shadow: 1.5px 1px 0 var(--midnight-violet);
+    font-size: 1.5rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.buy-btn:hover {
+    background-color: var(--midnight-violet);
+    color: var(--midnight-violet); /* soft rose highlight */
+}
+
+
+/* ================================
+   FOOTER
+================================ */
+/* =========================
+   FOOTER
+   ========================= */
+.footer{
+  background-color: var(--merlot);
+  padding: 4rem 0 2rem;
+  border-top: 1px solid rgba(212,165,116,0.20);
+  position: relative;
+}
+
+.footer::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(212,165,116,0.5), transparent);
+}
+
+.footer__content{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10rem;
+  margin-bottom: 3rem;
+}
+
+.footer__title{
+  font-family: 'valkirie';
+  font-size: 1.5em;
+  letter-spacing: 0.1rem;
+  font-weight: 1000;
+  color: var(--dusty-rose);
+  margin-bottom: 1rem;
+  text-shadow: 0 1.5px 1px var(--midnight-violet);
+}
+
+.footer__text{
+  color: white;
+  line-height: 1.8;
+  font-size: 1.15rem;
+  font-family: 'valkirie';
+  letter-spacing: 0.06rem;
+ 
+}
+
+.footer__text a{
+  color: white;
+  transition: color var(--transition-fast);
+  font-family: 'valkirie';
+  font-size: 1.15rem; 
+  
+}
+
+.footer__text a:hover{
+  color: var(--midnight-violet);
+}
+
+.footer__text em{
+  font-style: bold italic;
+  font-family: 'valkirie';
+  opacity: 0.85;
+  font-size: 1.15rem;
+}
+
+.footer__social{
+  display: flex;
+  gap: 1.2rem;
+  margin-top: 1rem;
+  font-family: valkirie;
+  font-size: 1.15rem;
+}
+
+.footer__social a{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: var(--midnight-violet);
+  border: 4px solid white;
+  color: white;
+  transition: transform var(--transition-medium), background-color var(--transition-medium);
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.footer__social a:hover{
+  background-color: var(--dusty-rose);
+  transform: translateY(-3px);
+}
+
+.footer__bottom{
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 8px solid var(--midnight-violet);
+  color: var(--warm-cream);
+  font-size: 1.15rem;
+  opacity: 0.8;
+  font-family: 'valkirie';
+  letter-spacing: 0.1rem;
+}
+
+/* ================================
+   RESPONSIVE DESIGN
+================================ */
+
+@media (max-width: 768px) {
+    .shop__hero-title {
+        font-size: 2.3rem;
+        padding: 14px 22px;
+    }
+
+    .bouquet-img {
+        height: 220px;
+    }
+
+    .spotify-section {
+        padding: 40px 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .shop__hero-title {
+        font-size: 1.9rem;
+    }
+
+    .bouquet-card {
+        padding: 15px;
+    }
+
+    .buy-btn {
+        padding: 10px;
+        font-size: 0.95rem;
+    }
+}
+
