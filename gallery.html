@@ -237,5 +237,27 @@ picture-in-picture" loading="lazy"></iframe>
     </footer>
        <script src="js/global.js"></script>
        <script src="js/gallery.js"></script>
+       <script>
+document.addEventListener("DOMContentLoaded", function () {
+    const navMenu = document.getElementById("nav-menu");
+    const navToggle = document.getElementById("nav-toggle");
+    const navClose = document.getElementById("nav-close");
+
+    // Open menu
+    if (navToggle) {
+        navToggle.addEventListener("click", () => {
+            navMenu.classList.add("show-menu");
+        });
+    }
+
+    // Close menu
+    if (navClose) {
+        navClose.addEventListener("click", () => {
+            navMenu.classList.remove("show-menu");
+        });
+    }
+});
+</script>
+
 </body>
 </html>
