@@ -693,8 +693,7 @@ overflow:hidden !important; }
   position: relative;
   z-index: 6;
   text-align: center;
-  max-width: 975px;
-  width: min(1260px, calc(100% - 2.5rem));
+width: 100%;
   padding: clamp(2rem, 4vw, 3.5rem);
   border-radius: 28px;
   background: linear-gradient(180deg, rgba(10,6,10,0.42), rgba(10,6,10,0.18));
